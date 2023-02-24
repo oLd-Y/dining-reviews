@@ -1,10 +1,10 @@
 # dining-reviews
 黑马用餐点评项目复刻
-# 一、导入用餐点评项目
+# 运行项目
 
 ## 1. 导入后端项目
 
-导入hm-dianping后端项目, 配置mysql地址和redis地址, 访问`http://localhost:8081/shop-type/list`接口测试是否启动成功
+导入hm-dianping后端项目, 配置mysql地址和redis地址后启动, 访问`http://localhost:8081/shop-type/list`接口测试项目是否启动成功
 
 ## 2. 启动前端项目
 
